@@ -1,2 +1,2 @@
 #!/bin/bash
-which -a _ls_
+which -a /ls/bin/less
